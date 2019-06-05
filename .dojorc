@@ -1,0 +1,12 @@
+{
+	"build-app": {
+		"build-time-render": {
+			"root": "app",
+			"puppeteerOptions": {
+				"headless": false
+			}
+		}
+	},
+	"test-intern": {},
+	"create-app": {}
+}
